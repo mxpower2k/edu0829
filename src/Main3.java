@@ -10,4 +10,8 @@ public class Main3 {
     {
         System.out.println("main41 함수추가");
     }
+
+    public void reset() {
+        System.out.println("reset 테스트 함수");
+    }
 }
