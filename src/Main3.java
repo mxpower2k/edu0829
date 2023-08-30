@@ -10,12 +10,4 @@ public class Main3 {
     {
         System.out.println("main41 함수추가");
     }
-
-    public void stash() {
-        System.out.println("stash 테스트");
-    }
-
-    public void resetTest() {
-        System.out.println("reset 테스트");
-    }
 }
